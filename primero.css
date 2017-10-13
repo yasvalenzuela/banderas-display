@@ -1,0 +1,16 @@
+.yellow, .gray{
+	height: 100px;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+.yellow {
+	background-color: #f7b617;
+}
+
+.gray {	
+	background-color: #2b2b2b;
+	color: white; /*es lo mismo que #fff*/ 
+}
